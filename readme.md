@@ -73,11 +73,16 @@ S-Cart 7.x
 
 > Core laravel framework 9.x 
 
+S-Cart 8.x
+
+> Core laravel framework 10.x 
+
 ## Requirements:
 
 ```
-- PHP >= ^7.3|^8.0 (S-Cart 6.x)
-- PHP >= ^8.0.2 (S-Cart 7.x)
+- PHP ^7.3|^8.0 (S-Cart 6.x)
+- PHP ^8.0.2 (S-Cart 7.x)
+- PHP ^8.1 (S-Cart 8.x)
 - OpenSSL PHP Extension
 - PDO PHP Extension
 - Mbstring PHP Extension
@@ -236,7 +241,3 @@ If you discover a security vulnerability within S-Cart ecommerce, please send an
 
 - Multi vendor : https://s-cart.org/en/multi-vendor.html
 - Multi store : https://s-cart.org/en/multi-store.html
-
-## Donors:
-
-<a href="https://giaiphap247.com"><img width=100 alt="GiaiPhap247.Com" src="https://giaiphap247.com/data/logo/gp247.png" title="GP247 - Chuyên xây dựng website và cung cấp các dich vụ, giải pháp phần mềm cho doanh nghiệp."></a>
